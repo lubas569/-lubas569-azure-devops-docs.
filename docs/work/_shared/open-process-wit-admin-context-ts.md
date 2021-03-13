@@ -1,0 +1,5 @@
+---
+ms.topic: include
+---
+
+0. Open **Process** from a work item form or by choosing **Account Settings** from the gear option. For details, see [Customize a process, Start customizing](/vsts/organizations/settings/work/customize-process#start-customizing).

@@ -1,0 +1,46 @@
+- name: "Scale & Configure Teams" 
+  href: index.md
+- name: Overview
+  items:
+  - name: About projects and scaling your organization
+    href: ../projects/about-projects.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+  - name: About settings
+    href: about-settings.md
+  - name: "About teams & Agile tools"
+    href: about-teams-and-settings.md
+- name: Quickstarts
+  items:
+  - name: "Add a team & team members"
+    href: ../../work/scale/multiple-teams.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+  - name: Add a team administrator
+    href: ../../work/scale/add-team-administrator.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+- name: Concepts
+  items:
+  - name: Team administrator role and permissions
+    href: ../../work/scale/team-administrator-permissions.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+- name: How-to Guides
+  items:
+  - name: Set team defaults
+    href: set-team-defaults.md
+  - name: Configure team settings
+    href: ../../work/scale/manage-team-assets.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+  - name: Change your preferences
+    href: set-your-preferences.md
+  - name: Switch team context
+    href: switch-team-context.md
+  - name: "Manage permissions & access"
+    href: ../../organizations/security/set-permissions-access-work-tracking.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+- name: Reference
+  items:
+  - name: "Permissions & access for work tracking"
+    href: ../../organizations/security/permissions-access-work-tracking.md?toc=/vsts/organizations/settings/toc.json&bc=/vsts/organizations/settings/breadcrumb/toc.json
+- name: Resources
+  items:
+  - name: Customization
+    href: ../../work/customize/index.md
+  - name: Scale Agile to large teams
+    href: /azure/devops/agile/scale-agile-large-teams
+  - name: Microsoft Teams Integration
+    href: https://marketplace.visualstudio.com/items?itemname=ms-vsts.vss-services-teams
+  - name: Integrate with service hooks
+    href: ../../service-hooks/index.md
