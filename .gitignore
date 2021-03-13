@@ -1,0 +1,14 @@
+.vs/
+log/
+obj/
+_site/
+.optemp/
+_themes*/
+
+.openpublishing.buildcore.ps1
+*.bmp
+/scract_redirect.json
+/scract_redirect.json
+/docs/navigation/_img/vertical-app-navigation.mgf
+*.mgf
+/docs/navigation/_img/vertical-app-715-navigation.mgf
