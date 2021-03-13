@@ -1,0 +1,39 @@
+- name: About backlogs 
+  href: backlogs-overview.md
+- name: Quickstarts
+  items:
+  - name: Create your backlog
+    href: create-your-backlog.md
+  - name: Drive Git development
+    href: connect-work-items-to-git-dev-ops.md
+- name: Tutorials
+  items:
+  - name: "Define features & epics"
+    href: define-features-epics.md
+  - name: Organize your backlog (map or reparent)
+    href: organize-backlog.md
+- name: Concepts
+  items:
+  - name: Refine your backlog
+    href: best-practices-product-backlog.md
+- name: How-to Guides
+  items:
+  - name: Display rollup progress bars or totals
+    href: display-rollup.md
+  - name: "Filter backlogs & queries"
+    href: filter-backlogs.md
+  - name: Copy list
+    href: copy-list.md 
+- name: Troubleshooting
+  items:
+  - name: Fix "Ordering backlog items is disabled"
+    href: resolve-backlog-reorder-issues.md
+- name: Reference
+  items:
+  - name: Product backlog controls
+    href: product-backlog-controls.md 
+  - name: Backlog keyboard shortcuts
+    href: backlogs-keyboard-shortcuts.md
+
+
+
