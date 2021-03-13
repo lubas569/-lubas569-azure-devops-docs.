@@ -1,0 +1,25 @@
+- name: About process (work tracking) customization
+  href: customize-work.md?toc=/azure/devops/organizations/toc.json&bc=/azure/devops/organizations/breadcrumb/toc.json
+- name: Compare system processes  
+  href: ../boards/work-items/guidance/choose-process.md?toc=/azure/devops/organizations/toc.json&bc=/azure/devops/organizations/breadcrumb/toc.json
+- name: Inheritance process model 
+  href: ../organizations/settings/work/toc.yml
+- name: On-premises XML process model  
+  href: xml/toc.yml
+- name: Hosted XML process model 
+  href: ../organizations/settings/work/hosted/toc.yml
+- name: Process templates
+  href: process-templates/toc.yml
+- name: witadmin Reference
+  href: witadmin/toc.yml
+- name: Resources
+  items:
+  - name: Azure Boards
+    href: /azure/devops/boards/index
+  - name: Develop extensions
+    href: /azure/devops/extend/overview
+  - name: Security, access, & billing
+    href: /azure/devops/organizations/security-acces-billing/index
+  - name: Deprecation of WIT & Test Client OM
+    href: /azure/devops/integrate/concepts/wit-client-om-deprecation
+
