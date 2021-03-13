@@ -1,0 +1,66 @@
+- name: Queries
+  href: index.md?toc=/azure/devops/boards/queries/toc.json&bc=/azure/devops/boards/queries/breadcrumb/toc.json
+- name: About managed queries
+  href: example-queries.md
+- name: Ad hoc vs managed queries
+  href: adhoc-vs-managed-queries.md?toc=/azure/devops/boards/queries/toc.json&bc=/azure/devops/boards/queries/breadcrumb/toc.json
+- name: Query quick reference
+  href: query-index-quick-ref.md
+- name: Quickstarts
+  items:
+  - name: View, run, or email a query 
+    href: view-run-query.md
+  - name: Ad hoc search
+    href: search-box-queries.md
+- name: Tutorials
+  items:
+  - name: Create managed queries
+    href: using-queries.md
+  - name: Triage work items  
+    href: triage-work-items.md
+- name: Samples
+  items:
+  - name: Query by title, ID, or description
+    href: titles-ids-descriptions.md 
+    displayname: Title, Description, Detail, Repo Steps, Acceptance Criteria
+  - name: Query by assignment or workflow changes
+    href: query-by-workflow-changes.md 
+    displayname: Identity, Assigned To, Changed By, State, Reason, Board Column, Board Lane
+  - name: Query by area or iteration
+    href: query-by-area-iteration-path.md   
+    displayname: Area Path, Node Name, Iteration Path 
+  - name: Query by date or current sprint
+    href: query-by-date-or-current-iteration.md  
+  - name: Query based on tags
+    href: add-tags-to-work-items.md#query 
+  - name: Query history
+    href: history-and-auditing.md  
+    displayname: revision, rev, Contains Words
+  - name: Query by a numeric field
+    href: query-numeric.md  
+  - name: Query by picklist value
+    href: planning-ranking-priorities.md  
+  - name: Query by links or attachments
+    href: linking-attachments.md 
+  - name: Query by build & test integration fields
+    href: build-test-integration.md  
+- name: How-to Guides
+  items:
+  - name: Organize queries with folders
+    href: organize-queries.md
+  - name: Set query permissions (Security) 
+    href: set-query-permissions.md
+  - name: Define a query as a hyperlink 
+    href: define-query-hyperlink.md 
+- name: Reference
+  items:
+  - name: "Query fields, operators & macros"
+    href: query-operators-variables.md
+  - name: Query keyboard shortcuts
+    href: queries-keyboard-shortcuts.md
+  - name: WIQL syntax
+    href: wiql-syntax.md
+
+
+
+

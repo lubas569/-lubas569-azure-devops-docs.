@@ -1,0 +1,28 @@
+- name: Web portal navigation 
+  href: index.md?toc=/azure/devops/project/navigation/toc.json&bc=/azure/devops/project/navigation/breadcrumb/toc.json 
+- name: Open a service, page, or setting 
+  href: go-to-service-page.md   
+- name: Add an artifact or team artifacts
+  href: add-artifact-team.md  
+- name: Use breadcrumbs, selectors, and directories
+  href: use-breadcrumbs-selectors.md  
+- name: Open another project or repo  
+  href: go-to-project-repo.md 
+- name: Work with favorites 
+  href: set-favorites.md  
+- name: Work across projects
+  href: work-across-projects.md  
+- name: Filter basics 
+  href: filter-basics.md
+- name: Search your repo, work items, or wiki 
+  href: search-basics.md   
+- name: Enable a preview feature  
+  href: preview-features.md  
+- name: Reference
+  items:
+  - name: Glossary
+    href: glossary.md  
+  - name: Go mobile 
+    href: mobile-work.md  
+
+ 
