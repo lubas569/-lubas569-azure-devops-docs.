@@ -1,0 +1,3 @@
+---
+redirect_url: /azure/devops/pipelines/apps/cd/deploy-aks
+---
