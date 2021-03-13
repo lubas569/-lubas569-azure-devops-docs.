@@ -1,0 +1,7 @@
+- name: Azure DevOps Services
+  tocHref: /azure/devops/
+  topicHref: /azure/devops/index
+  items: 
+  - name: Public Projects
+    tocHref: /azure/devops/organizations/public/
+    topicHref: /azure/devops/organizations/public/index
