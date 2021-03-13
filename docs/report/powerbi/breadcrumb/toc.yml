@@ -1,0 +1,11 @@
+- name: Azure DevOps
+  tocHref: /azure/devops/
+  topicHref: /azure/devops/index
+  items: 
+  - name: Reporting
+    tocHref: /azure/devops/
+    topicHref: /azure/devops/report/index
+    items:
+    - name: Power BI Integration
+      tocHref: /azure/devops/
+      topicHref: /azure/devops/report/powerbi/index
