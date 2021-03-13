@@ -1,0 +1,52 @@
+{
+  "build": {
+    "markdownEngineName": "dfm",
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_shared/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+         "**/*.png",
+          "**/*.jpg",
+          "**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-AzureDevOps",
+      "ms.topic": "article",
+      "ms.technology": "devops-release-notes",
+      "author": "gloridelmorales",
+      "ms.author": "glmorale",
+      "ms.manager": "douge",
+      "ms.prod": "devops",
+      "ms.version": "ALM",
+      "MSHAttr.msprod": "ms.prod:devops",
+      "ms.prodfamily": "ALM",
+      "hide_comments": "true"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "release-notes"
+  }
+}
