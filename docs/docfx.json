@@ -1,0 +1,81 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md", "**/*.yml"
+        ],
+        "group": "all",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_data/**",
+          "**/_shared/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.mp4",
+          "**/*.svg"
+        ],
+        "group": "all",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_data/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-AzureDevOps",
+      "ms.topic": "conceptual",
+      "breadcrumb_path": "~/breadcrumb/toc.yml",
+      "extendBreadcrumb": true,
+      "searchScope": ["Azure DevOps Services", "Azure DevOps", "VSTS", "Visual Studio Team Services", "TFS", "Team Foundation Server"],
+      "author": "erickson-doug",
+      "ms.author": "douge",
+      "ms.date": "09/05/2018",
+      "ms.prod": "devops",
+      "ms.version": "ALM",
+      "MSHAttr.msprod": "ms.prod:ALM",
+      "ms.prodfamily": "ALM",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/vsts-docs",
+      "feedback_product_url": "https://developercommunity.visualstudio.com/spaces/21/index.html"  
+    },
+    "fileMetadata": {
+      "monikerRange": {
+        "report/admin/**": ">= tfs-2013 <= tfs-2018",
+        "report/analytics/**": "vsts",
+        "report/excel/**": ">= tfs-2013 <= tfs-2018",
+        "report/extend-analytics/**": "vsts",
+        "report/powerbi/**": "vsts",
+        "report/sharepoint-dashboards/**": ">= tfs-2013 <= tfs-2017",
+        "report/sql-reports/**": ">= tfs-2013 <= tfs-2018",
+        "work/tfs-ps-sync/**": ">= tfs-2013 <= tfs-2015"
+      },
+      "ROBOTS":{
+        "integrate/previous-apis/**": "NOINDEX,NOFOLLOW"
+      }
+    },
+    "template": [],
+    "dest": "team-services",
+    "groups": {
+      "all": {
+        "dest": "all",
+        "moniker_range": "vsts || >= tfs-2013 <= tfs-2018"
+      }
+    }
+  }
+}
