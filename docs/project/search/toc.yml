@@ -1,0 +1,25 @@
+- name: Search
+  href: index.md?toc=/azure/devops/project/search/toc.json&bc=/azure/devops/project/search/breadcrumb/toc.json
+- name: About Search
+  href: overview.md?toc=/azure/devops/project/search/toc.json&bc=/azure/devops/project/search/breadcrumb/toc.json
+- name: Search code
+  href: code-search.md
+- name: Search work items
+  href: work-item-search.md
+- name: Search packages
+  href: package-search.md
+- name: How-to Guides
+  items:
+  - name: Use code search
+    href: advanced-code-search-syntax.md
+  - name: Use work item search
+    href: advanced-work-item-search-syntax.md
+  - name: Use package search
+    href: advanced-package-syntax.md
+  - name: Configure search
+    href: administration.md
+- name: Troubleshooting
+  items:
+  - name: FAQs
+    href: faq.md
+  
