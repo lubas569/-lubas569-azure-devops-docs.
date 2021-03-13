@@ -1,0 +1,11 @@
+- name: Azure DevOps
+  tocHref: /azure/devops/
+  topicHref: /azure/devops/index
+  items: 
+  - name: Azure Boards 
+    tocHref: /azure/devops/
+    topicHref: /azure/devops/boards/index
+    items:
+    - name: Plans (Agile at Scale)
+      tocHref: /azure/devops/
+      topicHref: /azure/devops/boards/plans/index

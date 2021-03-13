@@ -1,0 +1,69 @@
+- name: Extend Analytics with OData (Preview)
+  href: index.md
+- name: Overview
+  expanded: true
+  items:
+  - name: Quick reference
+    href: quick-ref.md
+- name: Quickstarts
+  expanded: true
+  items:
+  - name: Query work item data 
+    href: wit-analytics.md
+  - name: "Project & organization-scoped queries" 
+    href: account-scoped-queries.md
+- name: Tutorials
+  items:
+  - name: Query aggregate data
+    href: aggregated-data-analytics.md
+  - name: Query trend data
+    href: querying-for-trend-data.md
+  - name: Query work item links
+    href: work-item-links.md
+  - name: Explore Analytics metadata
+    href: analytics-metadata.md
+- name: Samples
+  items:
+  - name: Work item tracking queries
+    href: analytics-recipes.md
+  - name: Create an Analytics widget
+    href: example-analytics-widget.md  
+- name: Concepts
+  items:
+  - name: Query guidelines
+    href: odata-query-guidelines.md  
+- name: How-to Guides
+  items:
+  - name: Install the Analytics extension (on-premises)
+    href: ../dashboards/analytics-extension.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+  - name: Set permissions (Security) 
+    href: ../powerbi/analytics-security.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+- name: Reference
+  items:
+  - name: Data available
+    href: ../powerbi/data-available-in-analytics.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+  - name: Data model  
+    href: data-model-analytics-service.md
+  - name: "Performance & latency"
+    href: ../powerbi/performance-latency.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+  - name: What is the Analytics service?
+    href: ../powerbi/what-is-analytics.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+  - name: Reporting roadmap
+    href: ../powerbi/reporting-roadmap.md?toc=/azure/devops/report/extend-analytics/toc.json&bc=/azure/devops/report/extend-analytics/breadcrumb/toc.json
+  - name: "Supported functions & clauses"
+    href: odata-supported-features.md 
+  - name: API versioning
+    href: odata-api-version.md 
+- name: Resources
+  items:
+  - name: Power BI Integration
+    href: ../powerbi/index.md
+  - name: Dashboards, Charts, Reports, & Widgets
+    href: ../dashboards/index.md
+  - name: Azure Pipelines
+    href: /azure/devops/pipelines/index
+  - name: Azure Boards
+    href: /azure/devops/boards/index
+  - name: OData Extension for Data Aggregation Version 4.0
+    href: http://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs01/odata-data-aggregation-ext-v4.0-cs01.html
+
