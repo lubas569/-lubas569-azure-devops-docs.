@@ -1,0 +1,47 @@
+- name: Collaborate 
+  href: index.yml
+- name: Wikis
+  href: wiki/toc.yml
+- name: Public Projects
+  href: ../organizations/public/toc.yml
+- name: Search across Azure DevOps
+  href: ./search/toc.yml  
+- name: Feedback
+  href: feedback/toc.yml 
+- name: REST API Reference
+  items:
+  - name: Projects
+    href: /rest/api/azure/devops/core/projects
+  - name: Search
+    href: /rest/api/vsts/search/
+  - name: Wikis
+    href: /rest/api/vsts/wiki/wikis 
+  - name: Fetch Wiki search results
+    href: /rest/api/vsts/search/wiki%20search%20results/fetch%20wiki%20search%20results
+  - name: Get project metrics
+    href: /rest/api/azure/devops/build/metrics/get%20project%20metrics
+- name: Marketplace resources
+  items:
+  - name: UserVoice Integration (Marketplace extension)
+    href: https://marketplace.visualstudio.com/items?itemName=ms-vsts.services-uservoice
+  - name: UserVoice UI (Marketplace extension)
+    href: https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-uservoice-ui
+- name: Resources
+  items:
+  - name: Get Started
+    href: ../get-started/index.yml
+  - name: Notifications
+    href: ../notifications/about-notifications.md
+  - name: Manage projects
+    href: ../organizations/projects/about-projects.md
+  - name: Service hooks
+    href:  ../service-hooks/overview.md
+  - name: Azure Repos
+    href:  ../repos/index.yml
+  - name: Azure Boards
+    href:  ../boards/index.yml
+  - name: Reporting
+    href:  ../report/index.yml
+
+
+
