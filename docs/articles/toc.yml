@@ -1,0 +1,52 @@
+- name: Technical Articles 
+  href: index.md
+- name: High-Fidelity Migration
+  items:
+  - name: Migrate data from TFS to VSTS
+    href: migration-overview.md
+  - name: Migrate options
+    href: migrate-to-vsts-from-tfs.md
+  - name: Import
+    href: migration-import.md
+  - name: Process Templates
+    href: migration-processtemplates.md
+  - name: Post-Import
+    href: migration-post-import.md
+  - name: Troubleshooting
+    href: migration-troubleshooting.md
+- name: Version Control
+  items:
+    - name: Effective feature isolation on TFVC
+      href: effective-feature-isolation-on-tfvc.md
+    - name: Effective TFVC branching strategies for DevOps
+      href: effective-tfvc-branching-strategies-for-devops.md
+    - name: Git lost my changes?
+      href: git-log-history-simplification.md
+    - name: Move Git repos between team projects
+      href: move-git-repos-between-team-projects.md
+    - name: Remove large binaries from Git
+      href: remove-binaries.md
+    - name: Migrate from SVN to Git
+      href: perform-migration-from-svn-to-git.md
+- name: DevOps
+  items:
+    - name: Phase the features of your app with feature flags
+      href: phase-features-with-feature-flags.md
+    - name: Build and Deployment Automation Case Study
+      href: build-deployment-best-practices.md
+    - name: Phase the roll-out of your application through rings
+      href: phase-rollout-with-rings.md
+    - name: CI/CD security validation 
+      href: security-validation-cicd-pipeline.md  
+- name: Security
+  items:
+  - name: VSTS Data Protection
+    href: team-services-security-whitepaper.md
+- name: Journey articles
+  items:
+    - name: Agile
+      href: https://www.visualstudio.com/learn/what-is-agile/
+    - name: Devops
+      href: https://www.visualstudio.com/learn/what-is-devops/
+    - name: Git at Scale
+      href: https://www.visualstudio.com/learn/git-at-scale/

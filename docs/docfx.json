@@ -1,0 +1,53 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md", "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.mp4",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-TeamServices",
+      "ms.topic": "conceptual",
+      "breadcrumb_path": "~/breadcrumb/toc.yml",
+      "brand": "vsts",
+      "searchScope": ["VSTS", "Visual Studio Team Services"],
+      "author": "douge",
+      "ms.author": "douge",
+      "ms.date": "07/13/2017",
+      "ms.prod": "vs-devops-alm",
+      "ms.version": "ALM",
+      "MSHAttr.msprod": "ms.prod:ALM",
+      "ms.prodfamily": "ALM"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "team-services"
+  }
+}
